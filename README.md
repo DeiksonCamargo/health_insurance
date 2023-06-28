@@ -1,7 +1,5 @@
 
-![HI](https://user-images.githubusercontent.com/87071331/215324461-21d17968-acad-4988-8ec7-8e2e4d759abb.jpg)
-
-## 1. Sobre a  Insurance All
+# 1. Sobre a  Insurance All
 
 A Insurance All é uma seguradora que vende seguros de saúde para seus clientes. O modelo de negócios de seguros funciona dessa maneira.
 
