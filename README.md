@@ -10,7 +10,6 @@ A seguradora exige um pagamento do cliente para garantir compensações em caso 
    
 </p>
 
-## ENTENDIMENTO DE NEGÓCIOS
 ## 1.1 Problema de negócio:
 
 A Insurance All é uma seguradora de saúde e sua equipe de produtos está analisando a possibilidade de oferecer um novo produto, seguro de automóvel, para seus clientes de planos de saúde.
